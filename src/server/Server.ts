@@ -8,12 +8,4 @@ server.get('/', (_, res) => {
 });
 
 
-
-
-
-
-
-
-
-
 export default server;
